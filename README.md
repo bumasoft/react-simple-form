@@ -9,7 +9,7 @@ A very lean and clean React.js reducer for handling simple form data in React us
     import formReducer, { formActions } from '@bumasoft/react-simple-form';
     
     function MyComponent(props) {
-        const initiaFormState = {
+        const initialFormState = {
             field1: true,
             field2: 'testing',
             ...
