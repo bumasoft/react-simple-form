@@ -1,0 +1,18 @@
+{
+  "name": "@bumasoft/react-simple-form",
+  "version": "1.0.0",
+  "description": "A very lean and clean React.js reducer for handling simple form data in React using the useReducer hook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "forms",
+    "redux",
+    "form",
+    "state"
+  ],
+  "author": "BumaSoft SRL",
+  "license": "MIT"
+}
