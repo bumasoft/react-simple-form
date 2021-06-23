@@ -1,6 +1,6 @@
 {
   "name": "@bumasoft/react-simple-form",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A very lean and clean React.js reducer for handling simple form data in React using the useReducer hook.",
   "main": "index.js",
   "scripts": {

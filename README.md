@@ -17,7 +17,7 @@ A very lean and clean React.js reducer for handling simple form data in React us
         };
     
         const reducer = formReducer(initialFormState);
-        const [form, formDispatch] = useReducer(reducer, initialFormState);
+        const [form, formDispatch] = React.useReducer(reducer, initialFormState);
         ...
     }
 ```
